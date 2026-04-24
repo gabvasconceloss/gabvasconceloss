@@ -148,7 +148,7 @@ Destaco-me pela liderança em soluções de inovação e impacto social, incluin
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabvasconceloss&show_icons=true&theme=tokyonight&locale=pt-br" 
 />
