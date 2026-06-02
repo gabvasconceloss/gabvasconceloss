@@ -1,9 +1,11 @@
 # 👨‍💻 Gabriel Vasconcelos
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Mobile`** **`Entusiasta de UX/UI`** **`Dev React Native | ReactJS`**
 
-Sou Gabriel Vasconcelos, Técnico em Informática (Mathias Machline) e estudante em Engenharia de Software. Atuo como desenvolvedor e líder técnico focado em ecossistema React (Vite e Native), TypeScript, Java e Android Studio.
-Destaco-me pela liderança em soluções de inovação e impacto social, incluindo: um app corporativo de automação de chamadas (destaque na Feira da Mathias Machline); o Trilha Jovem (app vocacional); e os apps LLIA (acessibilidade para crianças com deficiência auditiva em áreas remotas) e SoftCorner (rede de comunicação para pessoas com TDAH/TEA) — ambos desenvolvidos pela Fametro e destaques no evento Inovatech 2025.
+Sou Gabriel Vasconcelos, Técnico em Informática pela Fundação Mathias Machline e estudante de Engenharia de Software. Atuo no desenvolvimento de aplicações web e mobile, com experiência em React, React Native, TypeScript, Java, Firebase e Android Studio, participando tanto da construção de interfaces quanto da integração com APIs, bancos de dados e serviços backend.
+
+Destaco-me pela liderança e desenvolvimento de soluções de inovação e impacto social, incluindo o **DeskAid**, aplicativo corporativo de automação de chamadas reconhecido na Feira de Projetos da Fundação Mathias Machline; o **Trilha Jovem**, plataforma de orientação vocacional; o **IgarApp**, aplicativo voltado à conscientização ambiental e à mobilização de voluntários para ações de preservação dos igarapés por meio da gamificação; além dos projetos **LLIA**, focado em acessibilidade para crianças com deficiência auditiva em áreas remotas, e **SoftCorner**, plataforma de comunicação inclusiva para pessoas com TDAH, TEA e outras dificuldades de socialização. Os projetos LLIA e SoftCorner foram destaques na Inovatech 2025 da Fametro.
+
 
 ---
 <br>
